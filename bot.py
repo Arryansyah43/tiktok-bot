@@ -27,7 +27,7 @@ class Bot:
         self.url = "https://zefoy.com"
         self.captcha_xpath = "/html/body/div[5]/div[2]/form/div/div/div/div/button"
         self.services = {
-            "followers": {
+            "followers": {fashionshop1000
                 "title": "Followers",
                 "xpath": "/html/body/div[6]/div/div[2]/div/div/div[2]/div/button",
                 "status": None,
